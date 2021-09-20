@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BTK_Kamp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="productimage">productImage</string>
+    <string name="r_n_ad">Ürün adı</string>
+    <string name="r_n_fiyat_0">Ürün fiyatı : ₺ 0</string>
+    <string name="adet_0">Adet: 0</string>
+    <string name="sat_n_al">Satın al</string>
+    <string name="toplam_sepet_tutar_0">Toplam Sepet Tutarı : ₺ 0</string>
+    <string name="xxx">₺ XXX</string>
+    <string name="sepete_ekle">Sepete Ekle</string>
+    <string name="r_nler">Ürünler</string>
+    <string name="sepet">Sepet</string>
+</resources>

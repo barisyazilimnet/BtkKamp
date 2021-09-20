@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/productsFragment"
+        android:title="@string/r_nler"
+        android:icon="@drawable/ic_baseline_format_list_bulleted_24" />
+    <item
+        android:id="@+id/basketFragment"
+        android:title="@string/sepet"
+        android:icon="@drawable/ic_baseline_shopping_basket_24" />
+</menu>
