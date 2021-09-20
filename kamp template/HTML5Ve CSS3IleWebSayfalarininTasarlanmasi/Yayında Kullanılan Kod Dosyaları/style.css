@@ -1,0 +1,166 @@
+/* küresel/global ayarlar */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* tüm sayfa elemanlarını barındıran container */
+#container {
+  width: 500px;
+  min-height: 400px;
+  margin: auto;
+  /*
+    border-width: 1px;
+    border-style: dashed;
+    background-color:burlywood;
+    */
+}
+
+#banner {
+  width: 498px;
+  height: 50px;
+  /*
+    border-color: red;
+    border-style: dashed;
+    border-width: 1px;
+    background-color: skyblue;
+    */
+}
+
+#banner #logo {
+  position: relative;
+  left: 20px;
+  /*
+    border-width: 1px;
+    border-color: red;
+    border-style: dashed;
+    */
+  width: 120px;
+  float: left;
+}
+
+#banner #logo img {
+  width: 80px;
+}
+
+#banner #search {
+  float: left;
+  position: relative;
+  top: 20px;
+  left: 30px;
+  /*
+    border-width: 1px;
+    border-style: dashed;
+    border-color: red;
+    */
+}
+
+#banner #search #txtSearch {
+  color: royalblue;
+  background-color: seashell;
+  width: 150px;
+  font-size: 14px;
+  padding: 2px;
+}
+
+#banner #icon {
+  float: right;
+  border-width: 1px;
+  /*
+    border-style: dashed;
+    border-color: red;
+    */
+}
+
+#banner #icon img {
+  width: 25px;
+  position: relative;
+  top: 20px;
+  margin-left: 10px;
+}
+
+/* Menü kodları */
+#mainmenu {
+  width: 498px;
+  height: 40px;
+  /*
+    border-width: 1px;
+    border-style: dashed;
+    border-color: blue;
+    background-color: chartreuse;
+    */
+}
+
+#mainmenu ul {
+  list-style-type: none;
+}
+
+#mainmenu ul li {
+  display: block;
+  float: left;
+  padding: 5px;
+  margin-left: 16px;
+  border-color: red;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: darkcyan;
+  position: relative;
+  top: 5px;
+}
+
+#mainmenu a {
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+}
+
+#mainmenu a:link,
+a:visited {
+  color: silver;
+}
+
+#mainmenu a:hover,
+a:active {
+  color: red;
+}
+
+#content {
+  width: 498px;
+  min-height: 200px;
+  /*
+    border-color: green;
+    border-width: 1px;
+    border-style: dashed;
+    background-color: gray;
+    */
+}
+
+#footmenu {
+  width: 498px;
+  height: 100px;
+  /*
+    border-style: dashed;
+    border-width: 1px;
+    border-color: green;
+    background-color: indigo;
+    */
+  background-image: url(images/ardalan.jpg);
+  background-repeat: repeat-x;
+}
+
+#footmenu div {
+  width: 100px;
+  height: 80px;
+  /*
+    border-width: 2px;
+    border-color: blue;
+    border-style: solid;
+    */
+  border-radius: 10px;
+  float: left;
+  position: relative;
+  top: 10px;
+  margin-left: 16px;
+  background-color: cornflowerblue;
+}
