@@ -1,0 +1,7 @@
+screamingfrog seo spider
+domain/robots.txt google tarafından engellenen şeyleri görebiliriz
+sitede resimler en fazla 40 50 kb olmalı
+site hızı inceleme
+gtmetrix.com
+pagespeed insight
+hızda daha çok mobil önemli
